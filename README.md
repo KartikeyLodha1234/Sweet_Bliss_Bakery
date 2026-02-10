@@ -17,13 +17,6 @@ A modern, responsive, and feature-rich bakery e-commerce website built with PHP,
 - Responsive product grid with hover effects
 - Quantity selection for bulk orders
 
-💳 **Checkout System**
-- Order form with customer information
-- Order summary with automatic calculations
-- Tax calculation (10%)
-- Free shipping on all orders
-- Order confirmation page
-
 📄 **Pages Included**
 1. **Home** - Landing page with hero section and featured products
 2. **Products** - Complete product catalog with filtering
